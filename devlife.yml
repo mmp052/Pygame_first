@@ -1,0 +1,12 @@
+course: devlife-23-1
+difficulty: 3
+slug: aulas/pygame/colisoes-som/exercises/jogo-simples
+studentFile: jogo.py
+tags:
+- pygame
+- colisoes-som
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_jogo.py
+title: Finalizando semana 1
+weight: 1
